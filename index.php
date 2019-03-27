@@ -45,7 +45,7 @@
 			<div class="slider-content slider01">
 				<div class="promo">
 					<div class="promo-catch">
-						<h2 class="promo-title">LADYBUG</h2>
+						<h2 class="promo-title">テストだよ</h2>
 						<p>句テストは五拾うど偶然へよくな六拾同時に嘉納さんか七拾係壇ああ見当にす八拾し人その主義私か九拾をについご盲従う百。</p>
 					</div>
 				</div>
