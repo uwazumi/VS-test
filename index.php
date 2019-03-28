@@ -61,7 +61,7 @@
 			<div class="slider-content slider03">
 				<div class="promo">
 					<div class="promo-catch">
-						<h2 class="promo-title">Nullam turpis lectus iaculis</h2>
+						<h2 class="promo-title">タイトル３です。</h2>
 						<p>句読点を入て拾文字、ここまでで二拾文字。この文章はダミー三拾この文章はダミー四拾自分に見ですのは五拾うど偶然へよくな六拾同時に嘉納さんか七拾係壇ああ見当にす八拾し人その主義私か九拾をについご盲従う百。</p>
 					</div>
 				</div>
